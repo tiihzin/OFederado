@@ -3,16 +3,19 @@
 
 **📰 Jornal Digital - Projeto O Federado 📰**
 
-![Logo](url-da-imagem)
-
 ## Descrição
 
 Bem-vindo ao repositório do projeto **O Federado** - um jornal digital inovador que busca oferecer notícias atualizadas e relevantes de forma acessível e envolvente. Este projeto foi desenvolvido com as seguintes tecnologias e framework:
 
--**[Banco de Dados/MySql e PhpMyAdmin]**
--**[BackEnd/Laravel]**
--**[tecnologia/framework usado]**
-E visa [objetivo do projeto].
+- **PHP**
+
+- **MySQL**
+
+- **Laravel**
+
+- **React**
+
+E visa denunciar situações-problema do <i>Campus</i> com respaldo legal e normativo, e a proposição de soluções com base em ações já estabelecidas em outros <i>Campi</i> .
 
 ## Funcionalidades Principais
 
@@ -21,17 +24,12 @@ E visa [objetivo do projeto].
 - **Pesquisa Avançada:** Encontre facilmente artigos e notícias específicas.
 - **Integração com Redes Sociais:** Compartilhe as notícias diretamente nas suas redes favoritas.
 
-## Capturas de Tela
-
-![Captura de Tela 1](url-da-imagem)
-![Captura de Tela 2](url-da-imagem)
-
 ## Equipe
 
-- [Lucas Chagas Magno](https://github.com/lucascmagno)
-- [Pedro da Silva Mendes](https://github.com/PedroMends30)
-- [João Tiago Rodrigues Andrade](https://github.com/tiihzin)
-- [Davi Efigênio Monteiro da Cruz](https://github.com/usuario-contribuidor2)
+- [Lucas Chagas](https://github.com/lucascmagno)
+- [Pedro Mendes](https://github.com/PedroMends30)
+- [João Tiago Andrade](https://github.com/tiihzin)
+- [Davi Cruz](https://github.com/usuario-contribuidor2)
 
 ## Licença
 
