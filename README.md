@@ -8,6 +8,7 @@
 ## Descrição
 
 Bem-vindo ao repositório do projeto **O Federado** - um jornal digital inovador que busca oferecer notícias atualizadas e relevantes de forma acessível e envolvente. Este projeto foi desenvolvido com as seguintes tecnologias e framework:
+
 -**[Banco de Dados/MySql e PhpMyAdmin]**
 -**[BackEnd/Laravel]**
 -**[tecnologia/framework usado]**
