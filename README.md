@@ -29,7 +29,7 @@ E visa denunciar situações-problema do <i>Campus</i> com respaldo legal e norm
 - [Lucas Chagas](https://github.com/lucascmagno)
 - [Pedro Mendes](https://github.com/PedroMends30)
 - [João Tiago Andrade](https://github.com/tiihzin)
-- [Davi Cruz](https://github.com/usuario-contribuidor2)
+- [Davi Cruz](https://github.com/Davi-cruzz)
 
 ## Licença
 
