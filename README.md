@@ -40,6 +40,10 @@ E visa denunciar situações-problema do <i>Campus</i> com respaldo legal e norm
 
 [Acesse o Aqui o Desgin de Interface](https://www.figma.com/proto/29yUo6lAnsgmEAKsi1otMB/OFederado?node-id=188-265&starting-point-node-id=188%3A265&scaling=scale-down-width)
 
+## Protótipo 
+Protótipo criado com a plataforma wordpress
+[Acesse aqui](https://ofederado.wordpress.com)
+
 ## Equipe
 
 - [Lucas Chagas](https://github.com/lucascmagno)
