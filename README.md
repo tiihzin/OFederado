@@ -24,6 +24,22 @@ E visa denunciar situações-problema do <i>Campus</i> com respaldo legal e norm
 - **Pesquisa Avançada:** Encontre facilmente artigos e notícias específicas.
 - **Integração com Redes Sociais:** Compartilhe as notícias diretamente nas suas redes favoritas.
 
+## Casos de Uso
+
+Casos de Uso
+
+## Diagrama de Classes
+
+Diagrama de Classes
+
+## Diagrama de atividades
+
+Diagrama de atividades
+
+## Design de Interface
+
+[Acesse o Aqui](https://www.figma.com/proto/29yUo6lAnsgmEAKsi1otMB/OFederado?node-id=188-265&starting-point-node-id=188%3A265&scaling=scale-down-width)
+
 ## Equipe
 
 - [Lucas Chagas](https://github.com/lucascmagno)
