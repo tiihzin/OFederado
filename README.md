@@ -24,6 +24,26 @@ E visa denunciar situações-problema do <i>Campus</i> com respaldo legal e norm
 - **Pesquisa Avançada:** Encontre facilmente artigos e notícias específicas.
 - **Integração com Redes Sociais:** Compartilhe as notícias diretamente nas suas redes favoritas.
 
+## Notion
+[Link do Notion](https://www.notion.so/Engenharia-de-Software-3f8e76534b4b48f7a5a19b194e0d090e)
+
+
+## Diagrama de Classes
+
+[Acesse aqui o Diagrama de Classes](https://lucid.app/lucidchart/b7be4edb-54fb-440e-a193-9b3fdba0ddc2/edit?from_internal=true)
+
+## Diagrama de atividades
+
+[Acesse aqui o Diagrama de atividades](https://lucid.app/lucidchart/e8722e50-e5ec-4b96-b3b3-659855bd1e42/edit?page=0_0#)
+
+## Design de Interface
+
+[Acesse o Aqui o Desgin de Interface](https://www.figma.com/proto/29yUo6lAnsgmEAKsi1otMB/OFederado?node-id=188-265&starting-point-node-id=188%3A265&scaling=scale-down-width)
+
+## Protótipo 
+Protótipo criado com a plataforma wordpress
+[Acesse aqui](https://ofederado.wordpress.com)
+
 ## Equipe
 
 - [Lucas Chagas](https://github.com/lucascmagno)
